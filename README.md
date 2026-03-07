@@ -57,3 +57,5 @@ Web server configuration
 Security group management
 
 Introduction to infrastructure automation concepts
+
+Live demo: http://35.183.180.11/
